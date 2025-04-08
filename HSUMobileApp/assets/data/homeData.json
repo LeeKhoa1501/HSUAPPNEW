@@ -1,0 +1,22 @@
+{
+  "functions": [
+    { "id": 1, "name": "Chuyên cần", "icon": "running", "type": "fas" },
+    { "id": 2, "name": "Đánh giá môn học", "icon": "chart-bar", "type": "fas" },
+    { "id": 3, "name": "Đặt phòng", "icon": "building", "type": "fas" },
+    { "id": 4, "name": "Điểm", "icon": "clipboard-check", "type": "fas" },
+    { "id": 5, "name": "Điểm danh", "icon": "map-marker-alt", "type": "fas" },
+    { "id": 6, "name": "Học phí", "icon": "money-bill-wave", "type": "fas" },
+    { "id": 7, "name": "Kế hoạch HTCN", "icon": "project-diagram", "type": "fas" },
+    { "id": 8, "name": "Khảo sát CVHT", "icon": "poll", "type": "fas" },
+    { "id": 9, "name": "Khảo sát dịch vụ", "icon": "clipboard-list", "type": "fas" },
+    { "id": 10, "name": "Lịch thi", "icon": "calendar-alt", "type": "fas" },
+    { "id": 11, "name": "Sinh viên góp ý", "icon": "smile", "type": "fas" },
+    { "id": 12, "name": "Sổ tay sinh viên", "icon": "book", "type": "fas" },
+    { "id": 13, "name": "Sự kiện đã tham gia", "icon": "calendar-check", "type": "fas" },
+    { "id": 14, "name": "Tài khoản photo", "icon": "file-alt", "type": "fas" },
+    { "id": 15, "name": "Thông tin & Chính sách", "icon": "info-circle", "type": "fas" },
+    { "id": 16, "name": "Thời khoá biểu", "icon": "calendar", "type": "fas" },
+    { "id": 17, "name": "Thực tập", "icon": "briefcase", "type": "fas" },
+    { "id": 18, "name": "Yêu cầu học vụ", "icon": "pen", "type": "fas" }
+  ]
+}
