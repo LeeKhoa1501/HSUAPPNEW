@@ -1,0 +1,177 @@
+[
+    
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" }, 
+      "courseId": { "$oid": "67ff185dcda9b362053d9e93" },  
+      "dayOfWeek": "Thứ 2",
+      "startTime": "07:00",
+      "endTime": "09:30",
+      "date":"2025-04-07",
+      "room": "A.405",
+      "instructor": "Cô Nguyễn An",
+      "semester": "Học kỳ 1",
+      "academicYear": "2024-2025"
+    },
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId": {"$oid":"67ff185dcda9b362053d9e94"}, 
+      "dayOfWeek": "Thứ 4",
+      "date":"2025-04-09",
+      "startTime": "10:00", 
+      "endTime": "11:00", 
+      "room": "Sân Vận Động", 
+      "instructor": "Thầy Phạm Bình", 
+      "semester": "Học kỳ 1",
+      "academicYear": "2024-2025"
+    },
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId": {"$oid":"67ff185dcda9b362053d9e95"}, 
+      "dayOfWeek": "Thứ 6",
+      "date":"2025-04-11",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "room": "B.102",
+      "instructor": "Thanh",
+      "semester": "Học kỳ 1",
+      "academicYear": "2024-2025"
+    },
+      
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId": {"$oid":"67ff185dcda9b362053d9e96"},
+      "dayOfWeek": "Thứ 6",
+      "date":"2025-04-11",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "room": "C.301",
+      "instructor": "Nguyễn Trọng Phát",
+      "semester": "Học kỳ 2",
+      "academicYear": "2024-2025"
+    },
+    {
+      
+      "userId": { "$oid": "67ff185dcda9b362053d9e97" },
+      "courseId": "67fe02d92b81ebbe80f88c02", 
+      "dayOfWeek": "Thứ 3",
+      "date":"2025-04-13",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "room": "A.101",
+      "instructor": "Thầy Đỗ Minh",
+      "semester": "Học kỳ 2",
+      "academicYear": "2024-2025"
+    },
+     {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId": {"$oid":"67ff185dcda9b362053d9e98"}, 
+      "dayOfWeek": "Thứ 5", 
+      "date":"2025-04-17",
+      "startTime": "18:30",
+      "endTime": "21:30",
+      "room": "LAB_D",
+      "instructor": "Thầy Minh Dũng",
+      "semester": "Học kỳ 2",
+      "academicYear": "2024-2025"
+    },
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId":{"$oid":"67ff185dcda9b362053d9e99"},
+      "dayOfWeek": "Thứ 2",
+      "date":"2025-06-09",
+      "startTime": "7:00",
+      "endTime": "10:30",
+      "room": "B.205",
+      "instructor": "Cô Hà Trang",
+      "semester": "Học kỳ hè",
+      "academicYear": "2024-2025"
+    },
+    {
+        "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+        "courseId": {"$oid":"67ff185dcda9b362053d9e9a"},
+        "dayOfWeek": "Thứ 5",
+        "date":"2025-06-19",
+        "startTime": "7:00",
+        "endTime": "10:30",
+        "room": "B.205",
+        "instructor": "Bùi hữu TríTrí",
+        "semester": "Học kỳ hè",
+        "academicYear": "2024-2025"
+      },
+      {
+        "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+        "courseId":{"$oid":"67ff185dcda9b362053d9e9b"},
+        "dayOfWeek": "Thứ 5",
+        "date":"2025-06-19",
+        "startTime": "13:00",
+        "endTime": "15:30",
+        "room": "B.205",
+        "instructor": "Dương Văn Thuận",
+        "semester": "Học kỳ hè",
+        "academicYear": "2024-2025"
+      },
+
+      {
+        "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+        "courseId":{"$oid":"67ff185dcda9b362053d9e9c"},
+        "dayOfWeek": "Thứ 2",
+        "date":"2025-06-9",
+        "startTime": "13:00",
+        "endTime": "15:30",
+        "room": "B.205",
+        "instructor": "Trang Hồng Sơn",
+        "semester": "Học kỳ hè",
+        "academicYear": "2024-2025"
+      },
+      {
+        "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+      "courseId":{"$oid":"67ff185dcda9b362053d9e9d"},
+      "dayOfWeek": "Thứ 3",
+      "date":"2025-06-10",
+      "startTime": "7:00",
+      "endTime": "11:30",
+      "room": "B.205",
+      "instructor": "Dương Hồng Minh",
+      "semester": "Học kỳ hè",
+      "academicYear": "2024-2025"
+    },
+    {
+      "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+    "courseId":{"$oid":"67ff185dcda9b362053d9e9e"},
+    "dayOfWeek": "Thứ 4",
+    "date":"2025-06-11",
+    "startTime": "7:00",
+    "endTime": "11:30",
+    "room": "B.205",
+    "instructor": "Phạm Kim Ngôn",
+    "semester": "Học kỳ hè",
+    "academicYear": "2024-2025"
+  },
+  {
+    "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+    "courseId":{"$oid":"67ff185dcda9b362053d9e9f"},
+    "dayOfWeek": "Thứ 3",
+    "date":"2025-04-15",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "room": "B.205",
+    "instructor": "Dương Tố Hương",
+    "semester": "Học kỳ hè",
+    "academicYear": "2024-2025"
+  },
+
+  {
+    "userId": { "$oid": "67f8d41c5e62d05207534b7f" },
+    "courseId":{"$oid":"67ff185dcda9b362053d9ea0"},
+    "dayOfWeek": "Thứ 3",
+    "date":"2025-06-22",
+    "startTime": "7:00",
+    "endTime": "15:30",
+    "room": "B.205",
+    "instructor": "Trang Hồng Sơn",
+    "semester": "Học kỳ hè",
+    "academicYear": "2024-2025"
+  }
+
+
+]
