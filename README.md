@@ -1,2 +1,2 @@
 # HSUMobileApp
-An simple Hoa Sen University App using .Net
+An simple Hoa Sen University App REACT NATIVE & NODEJS
